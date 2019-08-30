@@ -15,7 +15,8 @@ p {
 	padding-bottom: 20px;
 }
 
-.new{font-family: Change Calibre,"Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif !important;
+article {
+	font-family: Change Calibre,"Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif !important;
 box-sizing: border-box;
 font-size: 16px;
     line-height: 1.5;
